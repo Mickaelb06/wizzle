@@ -2,7 +2,7 @@
 
 Détail et critères de sortie : `documentation/architecture/00-plan-execution.md` §12.
 
-- [ ] Lot 0 — Cadrage & prototypes (ADR, spike crypto MLS, spike front)
+- [ ] Lot 0 — Cadrage & prototypes (ADR ✅, spike crypto MLS ✅, spike front à faire)
 - [ ] Lot 1 — Fondations (workspace Rust, CI, Docker Compose, migrations)
 - [ ] Lot 2 — Identité
 - [ ] Lot 3 — Messagerie 1:1 E2EE
