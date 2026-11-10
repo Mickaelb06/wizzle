@@ -3,6 +3,8 @@
 > Statut : **proposition soumise à validation**. Aucun code produit tant que ce document n'est pas validé.
 > Les chiffres (coûts, durées) sont des **estimations de planification** à confirmer, pas des engagements.
 > Date : 2026-11-10 · Cahier des charges : v1.0
+>
+> **Mise à jour — décisions du porteur de projet** : équipe = 1 humain + Claude ; licence propriétaire ; MLS/OpenMLS accepté comme piste (sous réserve du spike) ; **budget = 0 € (donc pas d'audit externe : produit « non audité », voir SECURITY.md)** ; hébergement UE non obligatoire ; recherche d'antériorité du nom : le porteur assume le risque ; Web peut suivre le mobile. Conséquence : frontend = Flutter partout au départ (ADR-003). Voir `documentation/decisions/`.
 
 ---
 
